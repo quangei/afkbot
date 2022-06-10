@@ -1,7 +1,7 @@
 {
 	"ip":"smpcuahung.aternos.me",
 	"port":28704,
-	"name":"afkbotsmpvn",
+	"name":"bot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register cc12345 cc12345",
