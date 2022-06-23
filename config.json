@@ -5,5 +5,5 @@
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 92640755 92640755",
-	"login-cmd":"/login 92640755
+	"login-cmd":"/login 92640755"
 }
