@@ -1,9 +1,9 @@
 {
-	"ip":"smpcuachuahe.aternos.me",
-	"port":28704,
-	"name":"bot",
+	"ip":"serverpepc.tk",
+	"port":21409,
+	"name":"ditmead",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register cc12345 cc12345",
-	"login-cmd":"/login cc12345"
+	"register-cmd":"/register 92640755 92640755",
+	"login-cmd":"/login 92640755
 }
