@@ -1,8 +1,8 @@
 {
-	"ip":"BAChDZ!.aternos.me",
+	"ip":"BAChDZ1.aternos.me",
 	"port":,
 	"name":"bot",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register 92640755 92640755",
 	"login-cmd":"/login 92640755"
