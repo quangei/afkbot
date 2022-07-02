@@ -1,7 +1,7 @@
 {
-	"ip":"BAChDZ1.aternos.me",
-	"port":25565,
-	"name":"bot",
+	"ip":"serverpepc.tk",
+	"port":21409,
+	"name":"dbrr",
 	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register 92640755 92640755",
